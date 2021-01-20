@@ -1,1 +1,1 @@
-# PersonalBlogSite
+# TheDailyJournal
